@@ -1,0 +1,22 @@
+
+body {
+text-align: center;	
+}
+
+#NavHeader {
+	background-image: url("../images/the-flatiron-building.png" )
+}
+
+.navLink a {
+	color: white;
+}
+
+
+h1 {
+	font-family: Vardana;
+	color: white;
+} 
+
+p {
+	
+}
